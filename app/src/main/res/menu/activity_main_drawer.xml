@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:title="@string/menu_home" />
+        <item
+            android:id="@+id/nav_your_order"
+            android:title="@string/menu_your_order" />
+        <item
+            android:id="@+id/nav_buy_again"
+            android:title="@string/menu_buy_again" />
+        <item
+            android:id="@+id/nav_wishlist"
+            android:title="@string/menu_wishlist" />
+        <item
+            android:id="@+id/nav_account"
+            android:title="@string/menu_account" />
+        <item
+            android:id="@+id/nav_department"
+            android:title="@string/menu_department" />
+    </group>
+
+    <item android:title="PROGRAMMES AND FEATURES">
+        <menu>
+            <item
+                android:id="@+id/nav_today"
+                android:title="@string/menu_today" />
+            <item
+                android:id="@+id/nav_gift_card"
+                android:title="@string/menu_gift_card" />
+            <item
+                android:id="@+id/nav_prime"
+                android:title="@string/menu_prime" />
+            <item
+                android:id="@+id/nav_fresh"
+                android:title="@string/menu_fresh" />
+            <item
+                android:id="@+id/nav_all_programmes"
+                android:title="@string/menu_all_programmes" />
+            <item
+                android:id="@+id/nav_notification"
+                android:title="@string/menu_notification" />
+            <item
+                android:id="@+id/nav_settings"
+                android:title="@string/menu_settings" />
+            <item
+                android:id="@+id/nav_service"
+                android:title="@string/menu_service" />
+            <item
+                android:id="@+id/nav_legal"
+                android:title="@string/menu_legal" />
+
+        </menu>
+    </item>
+
+</menu>
