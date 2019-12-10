@@ -1,4 +1,4 @@
 # AmazonCloneAndroid
 
-A clone of the Amazon Android App.\n
-Done with Android X
+A clone of the Amazon Android App.
+Done with Android X: Recyclingviews, Fragments, Drawer Layouts and  AppBar Layouts.
